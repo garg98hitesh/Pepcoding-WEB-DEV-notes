@@ -1,0 +1,1 @@
+1. Fun fact to note is that there is no inbuilt classes in Javascript. We are just using classes by syntactic sugar. 
